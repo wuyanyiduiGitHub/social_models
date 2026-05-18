@@ -1,0 +1,61 @@
+指出一些哲学  就是几乎都是生产与消费   人是作为消费者的  自然的生物圈也是作为消费者的 其拥有物质  这种情况下要进行物质转化 让其是 在基础的单元 和单元的所有作用群上可操作。
+
+
+首先 供需平衡关系
+今年的产量=list_w_produce*Slaughter_value_age
+今年的需求量呢？ 一般是一个均衡的稳定量因为其与生命的存活相关联 所以一般是不变的 对于更一般的 种群的变化量 就像捕食者与被捕食者之间的动态变化，  所以由此可以计算出 消费者的出生比例 而为了政治合理化将其与出生情况相等 一般不是自我革命
+=list_w_need*consumption_value_age
+
+今年年份years 出生年份b_y
+#生产production
+最大屠宰年龄age_last=30years old
+按照年份出生屠宰记录b_y_list[b_y,,]是一个三维表 有出生年龄 有按照年龄的屠宰记录。    由于 日常使用时候工作人员更喜欢使用数量而不是百分比 所以 对于这种情况要将这两个进行一个关联。
+
+age_human_value[years,age_last]=a_h_v[years-1,age_last-1]+S_v_a[years-1,age_last-1](负值)=0
+age_human_value[years,age]=sum-sum(for i in list )
+
+S_百分比[1,2,3,5,8...4,2,1]占出生人数的比例
+Death_百分比（自然死亡比例)[,...]  优点可以直接参考现实情况。 因为不属于60～90的寿命终结的情况。    这种百分比一般是按照后来计算来实现的。
+百分比_年龄列表[100%,90%,80%,70%,60%,50%,40%,30%,20%,10%]
+
+#消费 Consumption
+今年的消费量等于今年存活的consumer与其年龄结构对应的消费量。
+
+
+生产供给方面
+出生数量-出生率*生产数量   由于其相关性导致 其出现 a+b=1的情况不考虑十分特殊的双性等情况。
+对于年龄其有其出生年份的出生人数-（其年龄之前时的死亡数）
+
+
+供给方:human 不同年龄对应不同的平均产肉量 关系 list_w_procude=[3,]单位kg（最后希望能够变成一个函数 输出平均重量平均产肉量及对应方差（假设是符合高斯分布））
+
+
+各部分的人类可食用的部位表 其对应的 消化后元素的获取量
+还有其被自然作用与分解后的获取量
+
+weight_list=[]   #体重表
+visceral_weight_list=[] #内脏
+boon_weight_list=[] #骨头
+carcass_weight_list=[]#胴体
+    head_weitht_list#
+    blood_weight_list
+    palms_weight_list=#手掌
+    soles_weight_list#脚掌
+
+
+
+
+human_tree={
+    skeletal system
+
+}
+人类树={
+骨骼系统={中轴骨={
+颅骨，脑颅骨={
+额骨={额骨左半，额骨右半}，面颅骨，牙，舌，
+
+
+
+研究表明0-2 birth_meat_ratio，3-12每年约2kg,13-18years old 4-6kg/year ,19-30
+
+
